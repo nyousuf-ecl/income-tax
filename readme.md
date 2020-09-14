@@ -147,3 +147,5 @@ Specific examples of what is not taken into account:
 These lists are very much incomplete.
 
 Suggestions and patches on addressing any of these are, of course, more than welcome.
+
+[![Run on Repl.it](https://repl.it/badge/github/nyousuf-ecl/income-tax)](https://repl.it/github/nyousuf-ecl/income-tax)
